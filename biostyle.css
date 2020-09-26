@@ -1,0 +1,32 @@
+body {
+    margin: 80px;
+    padding: 20px;
+    background-color: #efeee7;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 0%;
+}
+
+h1{color: white;
+background-color: black;
+text-align: center;
+display: block;
+padding: 20px;
+}
+
+img{
+    height: 200px;
+    width: 200px;  
+    float: left;
+    padding-right: 0.5cm;
+}
+
+a{color: red;}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
